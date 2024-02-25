@@ -3,11 +3,11 @@
 
 # Automated Mailing
 
-## 🛠️ Description
+## Description
 
 This code helps automate the process of sending mail to large audience.It takes email addresses stored in the CSV file.
 
-## ⚙️ Languages or Frameworks Used
+## Languages or Frameworks Used
 
 Modules required are `os` , `email.mime` , `smtplib` , `pandas`.
 
@@ -15,13 +15,13 @@ These are listed in `requirements.txt` . USe the below command to install these 
 
 ```pip install requirements.txt```
  
-## 🌟 How to run
+## How to run
 
 - Update the `from_addr` and `pd.read_csv("filepath")`
 - Assign `email` with your email-id & `password` with your e-mail password.
 - Run script
 
 
-## 🤖 Author
+## Author
 
 [Santanu Kumar Padhy](https://github.com/santanu-kumar-padhy)
